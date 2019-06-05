@@ -333,7 +333,7 @@ PageTransition.propTypes = {
 }
 
 PageTransition.defaultProps = {
-  tag: 'div',
+  tag: 'span',
   loadingComponent: null,
   loadingCallbackName: 'pageTransitionReadyToEnter',
   loadingDelay: 500,
